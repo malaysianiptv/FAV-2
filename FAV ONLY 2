@@ -73,6 +73,38 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
 #EXTINF:-1 tvg-id="354" ch-number="AOD354" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_AOD_v1.png" group-title="Malaysia: Astro On The Go",Astro AOD 354
 https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
 
+--------------------- Sports Xtra -----------------------
+
+#EXTINF:-1 tvg-id="801" group-title="Malaysia: Sports Xtra" tvg-logo="https://i.imgur.com/HlB71nE.jpg",ASTRO ARENA
+http://iptv12k.com:35461/80201033004/324542/966
+
+#EXTINF:-1 group-title="Malaysia: Sports Xtra" tvg-id="802" tvg-chno="100" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/e32d82f270e544a886a36db2c678e02f/version/0/width/368/height/208/quality/80",ASTRO ARENA 2
+http://iptv12k.com:35461/80201033004/324542/965
+
+#EXTINF:-1 tvg-id="811" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Malaysia: Sports Xtra",ASTRO SUPERSPORT
+http://iptv12k.com:35461/80201033004/324542/972
+
+#EXTINF:-1 tvg-id="812" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="Malaysia: Sports Xtra",ASTRO SUPERSPORT 2
+http://iptv12k.com:35461/80201033004/324542/971
+
+#EXTINF:-1 tvg-id="813" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport3.png" group-title="Malaysia: Sports Xtra",ASTRO SUPERSPORT 3
+http://iptv12k.com:35461/80201033004/324542/970
+
+#EXTINF:-1 tvg-id="814" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport4.png" group-title="Malaysia: Sports Xtra",ASTRO SUPERSPORT 4
+http://iptv12k.com:35461/80201033004/324542/969
+
+#EXTINF:-1 group-title="Malaysia: Sports Xtra" tvg-id="815" tvg-chno="100" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/1de928cb602143f6bfff21026f7da97f/version/0/width/368/height/208/quality/80",ASTRO SUPERSPORT 5
+http://iptv12k.com:35461/80201033004/324542/968
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 group-title="Malaysia: Sports Xtra" tvg-id="816" tvg-chno="100" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/bfc0c9e433a4484c8f30b93aaf043f2b/version/0/width/368/height/208/quality/80",SPOTV
+https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+
+#EXTINF:-1 tvg-id="821" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428141_ico.png" group-title="Malaysia: Sports Xtra",WWE NETWORK
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+http://iptv12k.com:35461/80201033004/324542/652
+
 
 
 --------------------- TAMIL INDIA -----------------------
